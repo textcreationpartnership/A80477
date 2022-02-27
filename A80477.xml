@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter, sent from a well affected gentleman of the county of Surrey, to a gentleman in Kent. Communicating unto him the whole processe of that horrid massacre in Westminster, on Tuesday, May the 16. Together, vvith his owne, and others sense thereupon, in relation to the good of both counties.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80477</idno>
+            <idno type="STC">Wing C6141</idno>
+            <idno type="STC">Thomason E445_3</idno>
+            <idno type="STC">Thomason E445_11</idno>
+            <idno type="STC">ESTC R204768</idno>
+            <idno type="EEBO-CITATION">99864230</idno>
+            <idno type="PROQUEST">99864230</idno>
+            <idno type="VID">161738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161738)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[3], 70:E445[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter, sent from a well affected gentleman of the county of Surrey, to a gentleman in Kent. Communicating unto him the whole processe of that horrid massacre in Westminster, on Tuesday, May the 16. Together, vvith his owne, and others sense thereupon, in relation to the good of both counties.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "27 May".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Riots --  England --  Westminster --  Early works to 1800.</term>
+               <term>Surrey (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161738:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE COPY OF</hi> A LETTER, Sent from a well affected Gentleman of the County of <hi>Surrey,</hi> to a Gen<g ref="char:EOLhyphen"/>tleman in <hi>Kent.</hi>
+            </p>
+            <p>Communicating unto him the whole proceſſe of that horrid Maſſacre in <hi>Weſtminſter,</hi> on Tueſday, <hi>May</hi> the 16.</p>
+            <p>TOGETHER, VVith his owne, and others ſenſe thereupon, in relation to the good of both Counties.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161738:2"/>
+            <pb n="1" facs="tcp:161738:2"/>
+            <head>The Surry Mens Declaration, &amp;c.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>WEe are certainely informed in our parts, That you in <hi>Kent</hi> are prepa<g ref="char:EOLhyphen"/>ring an addreſſe unto the Parlia<g ref="char:EOLhyphen"/>ment in a petitionary way; a courſe which without reflection upon our ſelvs, we can<g ref="char:EOLhyphen"/>not cenſure, as having been newly engaged in that ſame way. But when we ſhall have given you a juſt account of our ſucceſſe (which you have I ſuppoſe received imperfectly and by peece-meale already) you may perhaps become more plyable to other reſolutions. It was thus: Wee came on Teuſday laſt in as innocent a poſture as men could deviſe, to <hi>Weſtminſter</hi> with our Petition; we had before hand made our application to the Lord Mayor, deſiring free paſſage through the City, which wee found, and though wee were able to come much better appointed, yet none (ſure a few Gentlemen that doe not uſe to ride without them) had ſo much as a Sword by their ſide. When we came to the Par<g ref="char:EOLhyphen"/>liament, our Petition was received, and an anſwer
+<pb n="2" facs="tcp:161738:3"/>promiſed; which we have now wit enough to be<g ref="char:EOLhyphen"/>leeve, was no other but this, that the Souldiers be<g ref="char:EOLhyphen"/>ſpoken before, and then fetched by one Member of the Houſe of Lords, and two of the Houſe of Commons (as we are credibly informed) from <hi>Whitehall</hi> and the <hi>Mewes,</hi> were let looſe upon our innocent and unarmed men: who (poore ſoules) having nothing elſe in their expectation but an an<g ref="char:EOLhyphen"/>ſwer of their Petition, were moſt unhumanely ſhot and hackt and hewde, and ſcarce ſo well as butche<g ref="char:EOLhyphen"/>red: whiles the Countrymen (whatſoever is im<g ref="char:EOLhyphen"/>pudently pretended to the contrary by ſhameleſſe men) did not ſo much as lift up their empty hands, unleſſe it were by inſtinct to ſave their heads. No occaſion was given by them (though very artifi<g ref="char:EOLhyphen"/>ciall provocations were offered them, to force a quarrell) ſave onely that the poore men ſayd (im<g ref="char:EOLhyphen"/>pardonable crime!) that <hi>They would have their King againe.</hi> Some whoſe intereſt it is to make all things juſt that are done by that ſhadow of authority, have moſt miraculouſly made the unfortunate ſufferers drunke after they were dead, they were not (I aſ<g ref="char:EOLhyphen"/>ſure you) before, and I am confident ſome of them (as far of the day as it was) loſt their lives as freſh and faſting as they aroſe out of their beds. Nor did
+<pb n="3" facs="tcp:161738:3"/>theſe gallant Murtherers uſe my Countreymen worſe then they did others, the neceſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of ſo pious a worke (it ſeemes) diſpencing with any reſpect of perſons, or elſe the haſte of it bearing all things downe before it; for the men that cryed nothing but <hi>Oares</hi> and <hi>Scullers,</hi> fared as if they had beene <hi>Surrey</hi> Petitioners; a Miller was ſlaine and ſtript for that great ſin of having ſixty peeces in his poc<g ref="char:EOLhyphen"/>ket, whilſt one of the new Courtiers of <hi>Whitehall</hi> had not ſo much. There were ſlaine outright and dead ſince of their wounds two or three dayes af<g ref="char:EOLhyphen"/>ter, no leſſe then thirty of the poore Innocents, and many more will never recover. Who ſhall anſwer for this, God knowes, but I am ſure their blood lyes at the Parliaments doore, and calls for juſtice in the very Courts of juſtice. I beleeve (and though I ſay it I have read ſome Hiſtories) that this is the firſt time ſince its foundations were layd, that that reverend Hall (from which Law and juſtice hath beene peaceably conveyed to all parts of the King<g ref="char:EOLhyphen"/>dome for this four hundred and fifty yeares) was made a field of blood, and a ſtage whereon merce<g ref="char:EOLhyphen"/>nary Souldiers were authoriſed and commanded to act their furious parts. And though the Soul<g ref="char:EOLhyphen"/>diers might very well have ſatisfied themſelves
+<pb n="4" facs="tcp:161738:4"/>that with free quarter and contributions they left us ſuffici<g ref="char:EOLhyphen"/>ently poore, yet to bee ſure they dived into the pockets not onely of the ſlaine (whom they ſtript alſo of their cloathes, unto which doubtleſſe their poore Widdowes and Orphans had more right) and of the Priſoners whoſe lives out of the aboundance of their charity, they ſaved; but alſo of diverſe Gentlemen and Citizens who had the misfortune to be there preſent; for then and there, two hundred ſixty and odde, moſt of them ſtrangers to our Petition, had their pockets pickt, and many were glad they eſcaped with the loſſe of their cloakes and hats into the bargaine. Thus Sir as briefly as I could, I have given you an anſwer of our Petition: an anſwer promiſed unto us a weeke beforehand, both by a Par<g ref="char:EOLhyphen"/>liament man, and an Aſſembly man, though wee had more miſtaken charity then to beleeve either of them: An anſwer which the Parliament avow to be their owne in ſo diſclaim<g ref="char:EOLhyphen"/>ing it, for they referred the examination and puniſhment of the Souldiers (whom underhand they incouraged) unto their owne Commanders, and what that ſignifies I need not tell you; (Good God! that the Kings Bench, which uſed to have a further reach, cannot now bee permitted the Cogni<g ref="char:EOLhyphen"/>zance of horrible Murthers committed within ſight and hea<g ref="char:EOLhyphen"/>ring of the Court!) I ſhall onely adde thus much which I received from an eare witneſſe; that the Souldiers when they had got this honourable victory, whiſpered among themſelvs whether they ſhould depart before they had the money was promiſed them.</p>
+            <p>This Sir was our ſucceſſe in our Petition, if you goe on with yours, I wiſh you better. You and I can neither of us forget (what then wee both approved) that when the King complained of Tumults (which were too truely ſo) not much above ſixe yeares agoe, the Parliament declared that if the Subjects came up unto them with a Petition, though they
+<pb n="5" facs="tcp:161738:4"/>were ten thouſand, though a hundred thouſand, though a million, yet it was no tumult, becauſe it was the undoubted right of the ſubject to petition: And then Mr. <hi>Fines</hi> made a learned Speech to that effect. Yet when we now made an ap<g ref="char:EOLhyphen"/>pearance of ſcarce a thouſand in as harmeleſſe a manner as nothing could bee more, becauſe it did not jumpe with the humour of a few Traiterous Heretiques or Atheiſts, ours is called and Pampleted by every Rogue, <hi>A Tumult at Weſt<g ref="char:EOLhyphen"/>minſter on Tueſday laſt,</hi> and the ſuppreſſors, forſooth, of it had the thanks of the Houſe. No tumult then, and a tumult now? have wee acquir'd at this great price not onely a moveable Religion, but moveable Law and reaſon too? Wee ſee the inconvenience there is in having a Parliament ſit ſo long, till they forget their owne reſolutions; and when they have left nothing elſe to confute, fall a confuting themſelves; but this is not the firſt time they have done ſo. Wee ſee into what a condition we have brought our ſelves. I confeſſe it is all the reaſon in the world, that they that will buy their ſlavery ſhould have a good pennyworth; but though we have payd our money before hand, I hope it is in our power to recal the bargaine; wee have been ſo groſly cheated, that in all equity we ought to have reliefe. We expected a reformation of the Church (which I cannot tell whether needed or no) and they have ſent us men who give us ſtones for bread; we thought our ſelves much intrenched upon by the Kings Prerogative, but finde the Priviledges of a ſhuffled Parliament much more boundleſſe; we were perſwaded againſt our ſenſes to beleeve the Kingdome was impoveriſhed, whilſt they by an eaſie &amp; retrograde Alchymie have turned all our Gold into Iron. Which by my conſent they ſhall feele whiles wee are yet ſo able as to mixe a little ſteele with it. I know you to be a Gen<g ref="char:EOLhyphen"/>tleman of much power in your Country, and I am ſure nei<g ref="char:EOLhyphen"/>ther of us have been ſo active in this wrong way but that our
+<pb n="6" facs="tcp:161738:5"/>future ſervice to our too much abuſed King may eaſily re<g ref="char:EOLhyphen"/>deeme his favour and our owne reputations; we have neither been Committee-men nor Sequeſtrators, nor have either of us got ſo much by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he times as to purchaſe Biſhops lands. We ſee our ſelvs lool<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon with as ill and ſuſpicious an eye as if we had been (which I could wiſh we had been) Malig<g ref="char:EOLhyphen"/>nants all this while. Now when we awake out of that ſleepe into which their <hi>Opium</hi> hath caſt us, we finde our ſelves grea<g ref="char:EOLhyphen"/>ter ſlaves then any in Europe, nay greater then any in Turky except poore Captives. If we releaſe not our ſelves we ſhall never be able to anſwer it to the King, nor his, nor our poſterity, nor ſcarce (having theſe opportunities offered) to our ſelves nei<g ref="char:EOLhyphen"/>ther. Why ſhould we put that off which firſt or laſt we ſhall be in<g ref="char:EOLhyphen"/>forced to doe? eſpecially when we ſhall never be our owne men till we doe it? Therefore (if I be worthy to adviſe) lay aſide your Petition, let our anſwer ſerve you though we onely pay for it, let your County and ours come into our wits together (Cavaliers would ſay honeſties too) there is no doubt, but not onely <hi>Eſſex,</hi> but all the Counties in England ſucceſſively (and ſome as quick as you can) will joyne with us; which will at once expiate our offences, and bring us a double bleſſing, <hi>an old King and a new Par<g ref="char:EOLhyphen"/>liament.</hi> Or if you be reſolved to goe on with your Petition, leſt you receive as ſharpe an anſwer or ſharper then we did, take ex<g ref="char:EOLhyphen"/>ample from our Maſters dear Brethren (you may doe it with more honeſty) and come with a ſupplication in one hand, and a ſword in the other. And be ſure that you truſt more to your ſwords then your ſupplication, it being too apparant, that the Parliament love to receive none of theſe, except it be of their owne drawing. But with thoſe if we ſtick cloſe unto one another (as we are reſolved to doe) and eſpecially if you will joyne with us, we hope by the bleſſing of God, to redeeme ourſelves out of ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very, and to doe an acceptable ſervice to God, the King, and Kingdome. This I aſſure you is the ſence of this whole County, which you will ſud<g ref="char:EOLhyphen"/>denly underſtand from other hands, &amp;c.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>I am, Your, &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
